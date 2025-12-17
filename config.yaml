@@ -1,0 +1,37 @@
+keywords:
+  omics:
+    - single-cell
+    - scRNA-seq
+    - transcriptomics
+    - multi-omics
+    - spatial transcriptomics
+    - ATAC-seq
+    - proteomics
+    - genomics
+    - epigenomics
+    - metabolomics
+    - spatial omics
+    - RNA-seq
+
+
+  methods:
+    - deep learning
+    - graph neural network
+    - VAE
+    - Bayesian
+    - Flow
+    - Flow Matching
+    - diffusion model
+    - contrastive learning
+    - generative model
+    - transformer
+
+  tasks:
+    - cell type annotation
+    - trajectory inference
+    - batch correction
+    - data integration
+    - gene regulatory network
+
+max_papers_per_day: 10
+days_back: 3
