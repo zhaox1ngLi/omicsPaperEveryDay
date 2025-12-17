@@ -25,6 +25,18 @@ keywords:
     - contrastive learning
     - generative model
     - transformer
+    - causal inference
+    - reinforcement learning
+    - self-supervised learning
+    - few-shot learning
+    - meta-learning
+    - transfer learning
+    - federated learning
+    - multi-task learning
+    - ensemble learning
+    - active learning
+    - semi-supervised learning
+    - unsupervised learning
 
   tasks:
     - cell type annotation
@@ -32,6 +44,7 @@ keywords:
     - batch correction
     - data integration
     - gene regulatory network
+    - virtual cell
 
 max_papers_per_day: 10
-days_back: 3
+days_back: 2
